@@ -1,77 +1,93 @@
 @import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
 
 * {
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: "Oswald", sans-serif;
-    margin: 0;
-  }
-  
-  h1 {
-    margin: 0;
-  }
-  
-  img {
-    width: 200px;
-    display: block;
-  }
+  box-sizing: border-box;
+}
 
-  .container {
-    max-width: 1150px;
-    width: 80%;
-    margin: 0 auto;
-  }
+body {
+  font-family: "Oswald", sans-serif;
+  margin: 0;
+}
 
-  .wordlwide {
-    background-color: antiquewhite;
-    height: 282px;
-  }
-  
-  .philippines {
-    background-color: aquamarine;
-    height: 282px;
-  }
-  
-  .wordlwide,
-  .philippines {
-    flex: 1;
-    padding: 50px 0;
-    position: relative;
-  } 
-  
-  .world__status,
-  .phil__status {
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-  }
+h1 {
+  margin: 0;
+}
 
-  .status__item {
-    width: 20%;
-  }
-  
-  .status__item p {
-    text-transform: uppercase;
-  }
+img {
+  width: 200px;
+  display: block;
+}
 
-  .confirmed {
-    color: #8d92bb;
-  }
-  
-  .deaths {
-    color: #f86aa0;
-  }
-  
-  .recovered {
-    color: brown;
-  }
+.wordlwide {
+  background-color: antiquewhite;
+  height: 282px;
+}
 
+.philippines {
+  background-color: aquamarine;
+  height: 282px;
+}
+
+.wordlwide,
+.philippines {
+  flex: 1;
+  padding: 50px 0;
+  position: relative;
+}
+
+.image {
+  position: absolute;
+  top: 10px;
+  right: 50px;
+  display: none;
+}
+
+.container {
+  max-width: 1150px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.world__status,
+.phil__status {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.status__item {
+  width: 20%;
+}
+
+.status__item p {
+  text-transform: uppercase;
+}
+
+.confirmed {
+  color: #8d92bb;
+}
+
+.deaths {
+  color: #f86aa0;
+}
+
+.recovered {
+  color: brown;
+}
+
+@media (min-width: 650px) {
+    .world__status,
+    .phil__status {
+      justify-content: flex-start;
+    }
+  
+    .image {
+      display: block;
+    }
+  }
+  
   @media (min-width: 1300px) {
     .row {
       display: flex;
     }
   }
-  
-  
