@@ -1,0 +1,2041 @@
+[
+    {
+      "Active Cases_text": "2,196,902",
+      "Country_text": "World",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+72,245",
+      "New Deaths_text": "+3,466",
+      "Total Cases_text": "3,635,934",
+      "Total Deaths_text": "251,612",
+      "Total Recovered_text": "1,187,420"
+    },
+    {
+      "Active Cases_text": "955,872",
+      "Country_text": "USA",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+21,580",
+      "New Deaths_text": "+878",
+      "Total Cases_text": "1,209,702",
+      "Total Deaths_text": "69,476",
+      "Total Recovered_text": "184,354"
+    },
+    {
+      "Active Cases_text": "71,240",
+      "Country_text": "Spain",
+      "Last Update": "2020-05-04 16:59",
+      "New Cases_text": "+1,179",
+      "New Deaths_text": "+164",
+      "Total Cases_text": "248,301",
+      "Total Deaths_text": "25,428",
+      "Total Recovered_text": "151,633"
+    },
+    {
+      "Active Cases_text": "99,980",
+      "Country_text": "Italy",
+      "Last Update": "2020-05-04 15:59",
+      "New Cases_text": "+1,221",
+      "New Deaths_text": "+195",
+      "Total Cases_text": "211,938",
+      "Total Deaths_text": "29,079",
+      "Total Recovered_text": "82,879"
+    },
+    {
+      "Active Cases_text": "161,506",
+      "Country_text": "UK",
+      "Last Update": "2020-05-04 02:57",
+      "New Cases_text": "+3,985",
+      "New Deaths_text": "+288",
+      "Total Cases_text": "190,584",
+      "Total Deaths_text": "28,734",
+      "Total Recovered_text": "N/A"
+    },
+    {
+      "Active Cases_text": "92,890",
+      "Country_text": "France",
+      "Last Update": "2020-05-04 11:58",
+      "New Cases_text": "+769",
+      "New Deaths_text": "+306",
+      "Total Cases_text": "169,462",
+      "Total Deaths_text": "25,201",
+      "Total Recovered_text": "51,371"
+    },
+    {
+      "Active Cases_text": "26,297",
+      "Country_text": "Germany",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+276",
+      "New Deaths_text": "+77",
+      "Total Cases_text": "165,940",
+      "Total Deaths_text": "6,943",
+      "Total Recovered_text": "132,700"
+    },
+    {
+      "Active Cases_text": "125,817",
+      "Country_text": "Russia",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+10,581",
+      "New Deaths_text": "+76",
+      "Total Cases_text": "145,268",
+      "Total Deaths_text": "1,356",
+      "Total Recovered_text": "18,095"
+    },
+    {
+      "Active Cases_text": "56,032",
+      "Country_text": "Turkey",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+1,614",
+      "New Deaths_text": "+64",
+      "Total Cases_text": "127,659",
+      "Total Deaths_text": "3,461",
+      "Total Recovered_text": "68,166"
+    },
+    {
+      "Active Cases_text": "54,943",
+      "Country_text": "Brazil",
+      "Last Update": "2020-05-04 02:57",
+      "New Cases_text": "+4,075",
+      "New Deaths_text": "+263",
+      "Total Cases_text": "105,222",
+      "Total Deaths_text": "7,288",
+      "Total Recovered_text": "42,991"
+    },
+    {
+      "Active Cases_text": "12,991",
+      "Country_text": "Iran",
+      "Last Update": "2020-05-04 06:58",
+      "New Cases_text": "+1,223",
+      "New Deaths_text": "+74",
+      "Total Cases_text": "98,647",
+      "Total Deaths_text": "6,277",
+      "Total Recovered_text": "79,379"
+    },
+    {
+      "Active Cases_text": "481",
+      "Country_text": "China",
+      "Last Update": "2020-05-04 06:58",
+      "New Cases_text": "+3",
+      "New Deaths_text": "",
+      "Total Cases_text": "82,880",
+      "Total Deaths_text": "4,633",
+      "Total Recovered_text": "77,766"
+    },
+    {
+      "Active Cases_text": "31,352",
+      "Country_text": "Canada",
+      "Last Update": "2020-05-04 17:59",
+      "New Cases_text": "+1,142",
+      "New Deaths_text": "+160",
+      "Total Cases_text": "60,616",
+      "Total Deaths_text": "3,842",
+      "Total Recovered_text": "25,422"
+    },
+    {
+      "Active Cases_text": "29,965",
+      "Country_text": "Belgium",
+      "Last Update": "2020-05-04 17:59",
+      "New Cases_text": "+361",
+      "New Deaths_text": "+80",
+      "Total Cases_text": "50,267",
+      "Total Deaths_text": "7,924",
+      "Total Recovered_text": "12,378"
+    },
+    {
+      "Active Cases_text": "31,601",
+      "Country_text": "Peru",
+      "Last Update": "2020-05-01 08:46",
+      "New Cases_text": "+1,444",
+      "New Deaths_text": "+58",
+      "Total Cases_text": "47,372",
+      "Total Deaths_text": "1,344",
+      "Total Recovered_text": "14,427"
+    },
+    {
+      "Active Cases_text": "32,024",
+      "Country_text": "India",
+      "Last Update": "2020-05-04 18:59",
+      "New Cases_text": "+3,932",
+      "New Deaths_text": "+175",
+      "Total Cases_text": "46,437",
+      "Total Deaths_text": "1,566",
+      "Total Recovered_text": "12,847"
+    },
+    {
+      "Active Cases_text": "35,438",
+      "Country_text": "Netherlands",
+      "Last Update": "2020-05-04 16:59",
+      "New Cases_text": "+199",
+      "New Deaths_text": "+26",
+      "Total Cases_text": "40,770",
+      "Total Deaths_text": "5,082",
+      "Total Recovered_text": "N/A"
+    },
+    {
+      "Active Cases_text": "26,879",
+      "Country_text": "Ecuador",
+      "Last Update": "2020-05-03 14:55",
+      "New Cases_text": "+2,343",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "31,881",
+      "Total Deaths_text": "1,569",
+      "Total Recovered_text": "3,433"
+    },
+    {
+      "Active Cases_text": "2,997",
+      "Country_text": "Switzerland",
+      "New Cases_text": "+76",
+      "New Deaths_text": "+22",
+      "Total Cases_text": "29,981",
+      "Total Deaths_text": "1,784",
+      "Total Recovered_text": "25,200"
+    },
+    {
+      "Active Cases_text": "23,989",
+      "Country_text": "Saudi Arabia",
+      "Last Update": "2020-05-02 12:51",
+      "New Cases_text": "+1,645",
+      "New Deaths_text": "+7",
+      "Total Cases_text": "28,656",
+      "Total Deaths_text": "191",
+      "Total Recovered_text": "4,476"
+    },
+    {
+      "Active Cases_text": "22,749",
+      "Country_text": "Portugal",
+      "Last Update": "2020-05-04 17:59",
+      "New Cases_text": "+242",
+      "New Deaths_text": "+20",
+      "Total Cases_text": "25,524",
+      "Total Deaths_text": "1,063",
+      "Total Recovered_text": "1,712"
+    },
+    {
+      "Active Cases_text": "7,870",
+      "Country_text": "Mexico",
+      "Last Update": "2020-05-04 04:57",
+      "New Cases_text": "+1,383",
+      "New Deaths_text": "+93",
+      "Total Cases_text": "23,471",
+      "Total Deaths_text": "2,154",
+      "Total Recovered_text": "13,447"
+    },
+    {
+      "Active Cases_text": "15,878",
+      "Country_text": "Sweden",
+      "Last Update": "2020-05-04 15:59",
+      "New Cases_text": "+404",
+      "New Deaths_text": "+90",
+      "Total Cases_text": "22,721",
+      "Total Deaths_text": "2,769",
+      "Total Recovered_text": "4,074"
+    },
+    {
+      "Active Cases_text": "7,067",
+      "Country_text": "Ireland",
+      "Last Update": "2020-05-02 01:50",
+      "New Cases_text": "+266",
+      "New Deaths_text": "+16",
+      "Total Cases_text": "21,772",
+      "Total Deaths_text": "1,319",
+      "Total Recovered_text": "13,386"
+    },
+    {
+      "Active Cases_text": "14,830",
+      "Country_text": "Pakistan",
+      "Last Update": "2020-05-02 15:52",
+      "New Cases_text": "+857",
+      "New Deaths_text": "+19",
+      "Total Cases_text": "20,941",
+      "Total Deaths_text": "476",
+      "Total Recovered_text": "5,635"
+    },
+    {
+      "Active Cases_text": "9,958",
+      "Country_text": "Chile",
+      "Last Update": "2020-04-30 07:42",
+      "New Cases_text": "+980",
+      "New Deaths_text": "+10",
+      "Total Cases_text": "20,643",
+      "Total Deaths_text": "270",
+      "Total Recovered_text": "10,415"
+    },
+    {
+      "Active Cases_text": "17,303",
+      "Country_text": "Singapore",
+      "New Cases_text": "+573",
+      "New Deaths_text": "",
+      "Total Cases_text": "18,778",
+      "Total Deaths_text": "18",
+      "Total Recovered_text": "1,457"
+    },
+    {
+      "Active Cases_text": "14,127",
+      "Country_text": "Belarus",
+      "Last Update": "2020-05-03 07:54",
+      "New Cases_text": "+784",
+      "New Deaths_text": "+4",
+      "Total Cases_text": "17,489",
+      "Total Deaths_text": "103",
+      "Total Recovered_text": "3,259"
+    },
+    {
+      "Active Cases_text": "5,947",
+      "Country_text": "Israel",
+      "Last Update": "2020-05-04 15:59",
+      "New Cases_text": "+38",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "16,246",
+      "Total Deaths_text": "235",
+      "Total Recovered_text": "10,064"
+    },
+    {
+      "Active Cases_text": "14,369",
+      "Country_text": "Qatar",
+      "Last Update": "2020-05-04 05:57",
+      "New Cases_text": "+640",
+      "New Deaths_text": "",
+      "Total Cases_text": "16,191",
+      "Total Deaths_text": "12",
+      "Total Recovered_text": "1,810"
+    },
+    {
+      "Active Cases_text": "1,705",
+      "Country_text": "Austria",
+      "Last Update": "2020-05-04 16:59",
+      "New Cases_text": "+24",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "15,621",
+      "Total Deaths_text": "600",
+      "Total Recovered_text": "13,316"
+    },
+    {
+      "Active Cases_text": "10,409",
+      "Country_text": "Japan",
+      "Last Update": "2020-05-04 06:58",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "14,877",
+      "Total Deaths_text": "487",
+      "Total Recovered_text": "3,981"
+    },
+    {
+      "Active Cases_text": "11,627",
+      "Country_text": "UAE",
+      "Last Update": "2020-05-04 15:59",
+      "New Cases_text": "+567",
+      "New Deaths_text": "+11",
+      "Total Cases_text": "14,730",
+      "Total Deaths_text": "137",
+      "Total Recovered_text": "2,966"
+    },
+    {
+      "Active Cases_text": "9,213",
+      "Country_text": "Poland",
+      "Last Update": "2020-05-04 03:57",
+      "New Cases_text": "+313",
+      "New Deaths_text": "+20",
+      "Total Cases_text": "14,006",
+      "Total Deaths_text": "698",
+      "Total Recovered_text": "4,095"
+    },
+    {
+      "Active Cases_text": "7,425",
+      "Country_text": "Romania",
+      "Last Update": "2020-04-30 08:42",
+      "New Cases_text": "+349",
+      "New Deaths_text": "+28",
+      "Total Cases_text": "13,512",
+      "Total Deaths_text": "818",
+      "Total Recovered_text": "5,269"
+    },
+    {
+      "Active Cases_text": "10,409",
+      "Country_text": "Ukraine",
+      "Last Update": "2020-05-04 04:57",
+      "New Cases_text": "+418",
+      "New Deaths_text": "+15",
+      "Total Cases_text": "12,331",
+      "Total Deaths_text": "303",
+      "Total Recovered_text": "1,619"
+    },
+    {
+      "Active Cases_text": "8,769",
+      "Country_text": "Indonesia",
+      "Last Update": "2020-05-04 08:58",
+      "New Cases_text": "+395",
+      "New Deaths_text": "+19",
+      "Total Cases_text": "11,587",
+      "Total Deaths_text": "864",
+      "Total Recovered_text": "1,954"
+    },
+    {
+      "Active Cases_text": "1,332",
+      "Country_text": "S. Korea",
+      "Last Update": "2020-05-03 09:54",
+      "New Cases_text": "+8",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "10,801",
+      "Total Deaths_text": "252",
+      "Total Recovered_text": "9,217"
+    },
+    {
+      "Active Cases_text": "8,752",
+      "Country_text": "Bangladesh",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+688",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "10,143",
+      "Total Deaths_text": "182",
+      "Total Recovered_text": "1,209"
+    },
+    {
+      "Active Cases_text": "2,089",
+      "Country_text": "Denmark",
+      "Last Update": "2020-05-04 07:58",
+      "New Cases_text": "+147",
+      "New Deaths_text": "+9",
+      "Total Cases_text": "9,670",
+      "Total Deaths_text": "493",
+      "Total Recovered_text": "7,088"
+    },
+    {
+      "Active Cases_text": "7,786",
+      "Country_text": "Serbia",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+93",
+      "New Deaths_text": "+4",
+      "Total Cases_text": "9,557",
+      "Total Deaths_text": "197",
+      "Total Recovered_text": "1,574"
+    },
+    {
+      "Active Cases_text": "7,547",
+      "Country_text": "Philippines",
+      "Last Update": "2020-05-04 12:58",
+      "New Cases_text": "+262",
+      "New Deaths_text": "+16",
+      "Total Cases_text": "9,485",
+      "Total Deaths_text": "623",
+      "Total Recovered_text": "1,315"
+    },
+    {
+      "Active Cases_text": "6,118",
+      "Country_text": "Dominican Republic",
+      "Last Update": "2020-05-03 22:57",
+      "New Cases_text": "+281",
+      "New Deaths_text": "+13",
+      "Total Cases_text": "8,235",
+      "Total Deaths_text": "346",
+      "Total Recovered_text": "1,771"
+    },
+    {
+      "Active Cases_text": "5,808",
+      "Country_text": "Colombia",
+      "Last Update": "2020-05-02 12:51",
+      "New Cases_text": "+305",
+      "New Deaths_text": "+18",
+      "Total Cases_text": "7,973",
+      "Total Deaths_text": "358",
+      "Total Recovered_text": "1,807"
+    },
+    {
+      "Active Cases_text": "7,638",
+      "Country_text": "Norway",
+      "Last Update": "2020-04-29 08:38",
+      "New Cases_text": "+37",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "7,884",
+      "Total Deaths_text": "214",
+      "Total Recovered_text": "32"
+    },
+    {
+      "Active Cases_text": "3,762",
+      "Country_text": "Czechia",
+      "New Cases_text": "+18",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "7,799",
+      "Total Deaths_text": "251",
+      "Total Recovered_text": "3,786"
+    },
+    {
+      "Active Cases_text": "4,336",
+      "Country_text": "South Africa",
+      "New Cases_text": "+437",
+      "New Deaths_text": "+7",
+      "Total Cases_text": "7,220",
+      "Total Deaths_text": "138",
+      "Total Recovered_text": "2,746"
+    },
+    {
+      "Active Cases_text": "6,356",
+      "Country_text": "Panama",
+      "Last Update": "2020-05-03 23:57",
+      "New Cases_text": "+107",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "7,197",
+      "Total Deaths_text": "200",
+      "Total Recovered_text": "641"
+    },
+    {
+      "Active Cases_text": "871",
+      "Country_text": "Australia",
+      "Last Update": "2020-05-01 10:47",
+      "New Cases_text": "+24",
+      "New Deaths_text": "",
+      "Total Cases_text": "6,825",
+      "Total Deaths_text": "95",
+      "Total Recovered_text": "5,859"
+    },
+    {
+      "Active Cases_text": "4,745",
+      "Country_text": "Egypt",
+      "Last Update": "2020-05-03 09:54",
+      "New Cases_text": "+348",
+      "New Deaths_text": "+7",
+      "Total Cases_text": "6,813",
+      "Total Deaths_text": "436",
+      "Total Recovered_text": "1,632"
+    },
+    {
+      "Active Cases_text": "1,764",
+      "Country_text": "Malaysia",
+      "Last Update": "2020-05-04 06:58",
+      "New Cases_text": "+55",
+      "New Deaths_text": "",
+      "Total Cases_text": "6,353",
+      "Total Deaths_text": "105",
+      "Total Recovered_text": "4,484"
+    },
+    {
+      "Active Cases_text": "1,587",
+      "Country_text": "Finland",
+      "Last Update": "2020-05-04 16:59",
+      "New Cases_text": "+73",
+      "New Deaths_text": "+10",
+      "Total Cases_text": "5,327",
+      "Total Deaths_text": "240",
+      "Total Recovered_text": "3,500"
+    },
+    {
+      "Active Cases_text": "3,291",
+      "Country_text": "Kuwait",
+      "New Cases_text": "+295",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "5,278",
+      "Total Deaths_text": "40",
+      "Total Recovered_text": "1,947"
+    },
+    {
+      "Active Cases_text": "3,221",
+      "Country_text": "Morocco",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+150",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "5,053",
+      "Total Deaths_text": "179",
+      "Total Recovered_text": "1,653"
+    },
+    {
+      "Active Cases_text": "3,092",
+      "Country_text": "Argentina",
+      "New Cases_text": "",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "4,783",
+      "Total Deaths_text": "249",
+      "Total Recovered_text": "1,442"
+    },
+    {
+      "Active Cases_text": "2,185",
+      "Country_text": "Algeria",
+      "Last Update": "2020-05-03 23:57",
+      "New Cases_text": "+174",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "4,648",
+      "Total Deaths_text": "465",
+      "Total Recovered_text": "1,998"
+    },
+    {
+      "Active Cases_text": "2,693",
+      "Country_text": "Moldova",
+      "New Cases_text": "+127",
+      "New Deaths_text": "+7",
+      "Total Cases_text": "4,248",
+      "Total Deaths_text": "132",
+      "Total Recovered_text": "1,423"
+    },
+    {
+      "Active Cases_text": "2,847",
+      "Country_text": "Kazakhstan",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+129",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "4,049",
+      "Total Deaths_text": "29",
+      "Total Recovered_text": "1,173"
+    },
+    {
+      "Active Cases_text": "327",
+      "Country_text": "Luxembourg",
+      "Last Update": "2020-05-02 16:52",
+      "New Cases_text": "+4",
+      "New Deaths_text": "",
+      "Total Cases_text": "3,828",
+      "Total Deaths_text": "96",
+      "Total Recovered_text": "3,405"
+    },
+    {
+      "Active Cases_text": "1,781",
+      "Country_text": "Bahrain",
+      "Last Update": "2020-04-29 08:38",
+      "New Cases_text": "+150",
+      "New Deaths_text": "",
+      "Total Cases_text": "3,533",
+      "Total Deaths_text": "8",
+      "Total Recovered_text": "1,744"
+    },
+    {
+      "Active Cases_text": "2,054",
+      "Country_text": "Hungary",
+      "New Cases_text": "+37",
+      "New Deaths_text": "+11",
+      "Total Cases_text": "3,035",
+      "Total Deaths_text": "351",
+      "Total Recovered_text": "630"
+    },
+    {
+      "Active Cases_text": "193",
+      "Country_text": "Thailand",
+      "Last Update": "2020-04-30 06:42",
+      "New Cases_text": "+18",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,987",
+      "Total Deaths_text": "54",
+      "Total Recovered_text": "2,740"
+    },
+    {
+      "Active Cases_text": "2,407",
+      "Country_text": "Afghanistan",
+      "Last Update": "2020-04-29 05:37",
+      "New Cases_text": "+190",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "2,894",
+      "Total Deaths_text": "90",
+      "Total Recovered_text": "397"
+    },
+    {
+      "Active Cases_text": "2,407",
+      "Country_text": "Ghana",
+      "New Cases_text": "+550",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,719",
+      "Total Deaths_text": "18",
+      "Total Recovered_text": "294"
+    },
+    {
+      "Active Cases_text": "1,809",
+      "Country_text": "Oman",
+      "New Cases_text": "+69",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,637",
+      "Total Deaths_text": "12",
+      "Total Recovered_text": "816"
+    },
+    {
+      "Active Cases_text": "1,112",
+      "Country_text": "Greece",
+      "Last Update": "2020-04-29 14:39",
+      "New Cases_text": "+6",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "2,632",
+      "Total Deaths_text": "146",
+      "Total Recovered_text": "1,374"
+    },
+    {
+      "Active Cases_text": "2,071",
+      "Country_text": "Nigeria",
+      "Last Update": "2020-04-30 02:41",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,558",
+      "Total Deaths_text": "87",
+      "Total Recovered_text": "400"
+    },
+    {
+      "Active Cases_text": "1,397",
+      "Country_text": "Armenia",
+      "Last Update": "2020-05-02 16:52",
+      "New Cases_text": "+121",
+      "New Deaths_text": "+4",
+      "Total Cases_text": "2,507",
+      "Total Deaths_text": "39",
+      "Total Recovered_text": "1,071"
+    },
+    {
+      "Active Cases_text": "704",
+      "Country_text": "Iraq",
+      "New Cases_text": "+50",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "2,346",
+      "Total Deaths_text": "98",
+      "Total Recovered_text": "1,544"
+    },
+    {
+      "Active Cases_text": "774",
+      "Country_text": "Uzbekistan",
+      "Last Update": "2020-05-04 11:58",
+      "New Cases_text": "+40",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,189",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "1,405"
+    },
+    {
+      "Active Cases_text": "499",
+      "Country_text": "Croatia",
+      "New Cases_text": "+5",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "2,101",
+      "Total Deaths_text": "80",
+      "Total Recovered_text": "1,522"
+    },
+    {
+      "Active Cases_text": "1,060",
+      "Country_text": "Cameroon",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "2,077",
+      "Total Deaths_text": "64",
+      "Total Recovered_text": "953"
+    },
+    {
+      "Active Cases_text": "478",
+      "Country_text": "Azerbaijan",
+      "Last Update": "2020-05-03 22:57",
+      "New Cases_text": "+52",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,984",
+      "Total Deaths_text": "26",
+      "Total Recovered_text": "1,480"
+    },
+    {
+      "Active Cases_text": "993",
+      "Country_text": "Bosnia and Herzegovina",
+      "New Cases_text": "+69",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,926",
+      "Total Deaths_text": "78",
+      "Total Recovered_text": "855"
+    },
+    {
+      "Active Cases_text": "66",
+      "Country_text": "Iceland",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,799",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "1,723"
+    },
+    {
+      "Active Cases_text": "1,251",
+      "Country_text": "Guinea",
+      "Last Update": "2020-04-29 04:37",
+      "New Cases_text": "+124",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "1,710",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "450"
+    },
+    {
+      "Active Cases_text": "1,389",
+      "Country_text": "Estonia",
+      "Last Update": "2020-04-29 03:37",
+      "New Cases_text": "+3",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,703",
+      "Total Deaths_text": "55",
+      "Total Recovered_text": "259"
+    },
+    {
+      "Active Cases_text": "723",
+      "Country_text": "Cuba",
+      "Last Update": "2020-05-02 04:50",
+      "New Cases_text": "+19",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "1,668",
+      "Total Deaths_text": "69",
+      "Total Recovered_text": "876"
+    },
+    {
+      "Active Cases_text": "1,253",
+      "Country_text": "Bulgaria",
+      "New Cases_text": "+34",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "1,652",
+      "Total Deaths_text": "78",
+      "Total Recovered_text": "321"
+    },
+    {
+      "Active Cases_text": "1,352",
+      "Country_text": "Bolivia",
+      "Last Update": "2020-04-30 23:45",
+      "New Cases_text": "+124",
+      "New Deaths_text": "+5",
+      "Total Cases_text": "1,594",
+      "Total Deaths_text": "76",
+      "Total Recovered_text": "166"
+    },
+    {
+      "Active Cases_text": "441",
+      "Country_text": "North Macedonia",
+      "Last Update": "2020-04-28 21:36",
+      "New Cases_text": "+7",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,518",
+      "Total Deaths_text": "85",
+      "Total Recovered_text": "992"
+    },
+    {
+      "Active Cases_text": "191",
+      "Country_text": "New Zealand",
+      "Last Update": "2020-04-30 13:43",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,487",
+      "Total Deaths_text": "20",
+      "Total Recovered_text": "1,276"
+    },
+    {
+      "Active Cases_text": "1,101",
+      "Country_text": "Slovenia",
+      "Last Update": "2020-05-01 23:50",
+      "New Cases_text": "",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,439",
+      "Total Deaths_text": "97",
+      "Total Recovered_text": "241"
+    },
+    {
+      "Active Cases_text": "722",
+      "Country_text": "Ivory Coast",
+      "New Cases_text": "+34",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,432",
+      "Total Deaths_text": "17",
+      "Total Recovered_text": "693"
+    },
+    {
+      "Active Cases_text": "735",
+      "Country_text": "Lithuania",
+      "New Cases_text": "+9",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,419",
+      "Total Deaths_text": "46",
+      "Total Recovered_text": "638"
+    },
+    {
+      "Active Cases_text": "745",
+      "Country_text": "Slovakia",
+      "New Cases_text": "+5",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,413",
+      "Total Deaths_text": "25",
+      "Total Recovered_text": "643"
+    },
+    {
+      "Active Cases_text": "846",
+      "Country_text": "Senegal",
+      "Last Update": "2020-05-04 12:58",
+      "New Cases_text": "+89",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,271",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "415"
+    },
+    {
+      "Active Cases_text": "401",
+      "Country_text": "Djibouti",
+      "New Cases_text": "+4",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,116",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "713"
+    },
+    {
+      "Active Cases_text": "855",
+      "Country_text": "Honduras",
+      "Last Update": "2020-05-01 16:48",
+      "New Cases_text": "+45",
+      "New Deaths_text": "+6",
+      "Total Cases_text": "1,055",
+      "Total Deaths_text": "82",
+      "Total Recovered_text": "118"
+    },
+    {
+      "Active Cases_text": "137",
+      "Country_text": "Hong Kong",
+      "Last Update": "2020-04-29 19:40",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "1,041",
+      "Total Deaths_text": "4",
+      "Total Recovered_text": "900"
+    },
+    {
+      "Active Cases_text": "569",
+      "Country_text": "Tunisia",
+      "Last Update": "2020-04-30 20:44",
+      "New Cases_text": "+5",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "1,018",
+      "Total Deaths_text": "43",
+      "Total Recovered_text": "406"
+    },
+    {
+      "Active Cases_text": "532",
+      "Country_text": "Latvia",
+      "Last Update": "2020-04-28 17:36",
+      "New Cases_text": "+17",
+      "New Deaths_text": "",
+      "Total Cases_text": "896",
+      "Total Deaths_text": "16",
+      "Total Recovered_text": "348"
+    },
+    {
+      "Active Cases_text": "563",
+      "Country_text": "Cyprus",
+      "Last Update": "2020-05-04 08:58",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "874",
+      "Total Deaths_text": "15",
+      "Total Recovered_text": "296"
+    },
+    {
+      "Active Cases_text": "245",
+      "Country_text": "Kyrgyzstan",
+      "Last Update": "2020-05-04 22:00",
+      "New Cases_text": "+35",
+      "New Deaths_text": "",
+      "Total Cases_text": "830",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "575"
+    },
+    {
+      "Active Cases_text": "229",
+      "Country_text": "Albania",
+      "Last Update": "2020-05-04 03:57",
+      "New Cases_text": "+8",
+      "New Deaths_text": "",
+      "Total Cases_text": "803",
+      "Total Deaths_text": "31",
+      "Total Recovered_text": "543"
+    },
+    {
+      "Active Cases_text": "660",
+      "Country_text": "Somalia",
+      "Last Update": "2020-04-30 04:41",
+      "New Cases_text": "+34",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "756",
+      "Total Deaths_text": "35",
+      "Total Recovered_text": "61"
+    },
+    {
+      "Active Cases_text": "184",
+      "Country_text": "Niger",
+      "Last Update": "2020-04-28 21:36",
+      "New Cases_text": "+5",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "755",
+      "Total Deaths_text": "37",
+      "Total Recovered_text": "534"
+    },
+    {
+      "Active Cases_text": "549",
+      "Country_text": "Sri Lanka",
+      "Last Update": "2020-04-29 02:37",
+      "New Cases_text": "+33",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "751",
+      "Total Deaths_text": "8",
+      "Total Recovered_text": "194"
+    },
+    {
+      "Active Cases_text": "206",
+      "Country_text": "Andorra",
+      "Last Update": "2020-05-04 06:58",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "750",
+      "Total Deaths_text": "45",
+      "Total Recovered_text": "499"
+    },
+    {
+      "Active Cases_text": "337",
+      "Country_text": "Costa Rica",
+      "New Cases_text": "+3",
+      "New Deaths_text": "",
+      "Total Cases_text": "742",
+      "Total Deaths_text": "6",
+      "Total Recovered_text": "399"
+    },
+    {
+      "Active Cases_text": "515",
+      "Country_text": "Lebanon",
+      "Last Update": "2020-05-03 09:54",
+      "New Cases_text": "+3",
+      "New Deaths_text": "",
+      "Total Cases_text": "740",
+      "Total Deaths_text": "25",
+      "Total Recovered_text": "200"
+    },
+    {
+      "Active Cases_text": "54",
+      "Country_text": "Diamond Princess",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "712",
+      "Total Deaths_text": "13",
+      "Total Recovered_text": "645"
+    },
+    {
+      "Active Cases_text": "614",
+      "Country_text": "Guatemala",
+      "New Cases_text": "+15",
+      "New Deaths_text": "",
+      "Total Cases_text": "703",
+      "Total Deaths_text": "17",
+      "Total Recovered_text": "72"
+    },
+    {
+      "Active Cases_text": "328",
+      "Country_text": "Mayotte",
+      "New Cases_text": "+36",
+      "New Deaths_text": "",
+      "Total Cases_text": "686",
+      "Total Deaths_text": "6",
+      "Total Recovered_text": "352"
+    },
+    {
+      "Active Cases_text": "568",
+      "Country_text": "DRC",
+      "Last Update": "2020-05-04 14:59",
+      "New Cases_text": "+8",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "682",
+      "Total Deaths_text": "34",
+      "Total Recovered_text": "80"
+    },
+    {
+      "Active Cases_text": "576",
+      "Country_text": "Sudan",
+      "New Cases_text": "+86",
+      "New Deaths_text": "",
+      "Total Cases_text": "678",
+      "Total Deaths_text": "41",
+      "Total Recovered_text": "61"
+    },
+    {
+      "Active Cases_text": "81",
+      "Country_text": "Burkina Faso",
+      "Last Update": "2020-05-03 23:57",
+      "New Cases_text": "+10",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "672",
+      "Total Deaths_text": "46",
+      "Total Recovered_text": "545"
+    },
+    {
+      "Active Cases_text": "196",
+      "Country_text": "Uruguay",
+      "Last Update": "2020-05-04 01:57",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "655",
+      "Total Deaths_text": "17",
+      "Total Recovered_text": "442"
+    },
+    {
+      "Active Cases_text": "361",
+      "Country_text": "Georgia",
+      "New Cases_text": "+4",
+      "New Deaths_text": "",
+      "Total Cases_text": "593",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "223"
+    },
+    {
+      "Active Cases_text": "455",
+      "Country_text": "San Marino",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "582",
+      "Total Deaths_text": "41",
+      "Total Recovered_text": "86"
+    },
+    {
+      "Active Cases_text": "328",
+      "Country_text": "Mali",
+      "Last Update": "2020-05-02 10:51",
+      "New Cases_text": "+17",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "580",
+      "Total Deaths_text": "29",
+      "Total Recovered_text": "223"
+    },
+    {
+      "Active Cases_text": "362",
+      "Country_text": "El Salvador",
+      "New Cases_text": "+65",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "555",
+      "Total Deaths_text": "13",
+      "Total Recovered_text": "180"
+    },
+    {
+      "Active Cases_text": "97",
+      "Country_text": "Channel Islands",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "544",
+      "Total Deaths_text": "41",
+      "Total Recovered_text": "406"
+    },
+    {
+      "Active Cases_text": "522",
+      "Country_text": "Maldives",
+      "Last Update": "2020-04-30 17:44",
+      "New Cases_text": "+14",
+      "New Deaths_text": "",
+      "Total Cases_text": "541",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "18"
+    },
+    {
+      "Active Cases_text": "293",
+      "Country_text": "Kenya",
+      "New Cases_text": "+25",
+      "New Deaths_text": "",
+      "Total Cases_text": "490",
+      "Total Deaths_text": "24",
+      "Total Recovered_text": "173"
+    },
+    {
+      "Active Cases_text": "297",
+      "Country_text": "Tanzania",
+      "Last Update": "2020-05-01 10:47",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "480",
+      "Total Deaths_text": "16",
+      "Total Recovered_text": "167"
+    },
+    {
+      "Active Cases_text": "77",
+      "Country_text": "Malta",
+      "Last Update": "2020-04-30 13:43",
+      "New Cases_text": "+3",
+      "New Deaths_text": "",
+      "Total Cases_text": "480",
+      "Total Deaths_text": "4",
+      "Total Recovered_text": "399"
+    },
+    {
+      "Active Cases_text": "422",
+      "Country_text": "Jamaica",
+      "Last Update": "2020-04-30 05:41",
+      "New Cases_text": "+6",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "469",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "38"
+    },
+    {
+      "Active Cases_text": "86",
+      "Country_text": "Jordan",
+      "New Cases_text": "+4",
+      "New Deaths_text": "",
+      "Total Cases_text": "465",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "370"
+    },
+    {
+      "Active Cases_text": "98",
+      "Country_text": "Taiwan",
+      "Last Update": "2020-05-04 00:57",
+      "New Cases_text": "+6",
+      "New Deaths_text": "",
+      "Total Cases_text": "438",
+      "Total Deaths_text": "6",
+      "Total Recovered_text": "334"
+    },
+    {
+      "Active Cases_text": "124",
+      "Country_text": "Réunion",
+      "Last Update": "2020-05-02 01:50",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "424",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "300"
+    },
+    {
+      "Active Cases_text": "260",
+      "Country_text": "Paraguay",
+      "New Cases_text": "+26",
+      "New Deaths_text": "",
+      "Total Cases_text": "396",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "126"
+    },
+    {
+      "Active Cases_text": "268",
+      "Country_text": "Gabon",
+      "New Cases_text": "+32",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "367",
+      "Total Deaths_text": "6",
+      "Total Recovered_text": "93"
+    },
+    {
+      "Active Cases_text": "258",
+      "Country_text": "Palestine",
+      "New Cases_text": "+9",
+      "New Deaths_text": "",
+      "Total Cases_text": "362",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "102"
+    },
+    {
+      "Active Cases_text": "189",
+      "Country_text": "Venezuela",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "357",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "158"
+    },
+    {
+      "Active Cases_text": "6",
+      "Country_text": "Mauritius",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "332",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "316"
+    },
+    {
+      "Active Cases_text": "31",
+      "Country_text": "Isle of Man",
+      "Last Update": "2020-04-29 06:37",
+      "New Cases_text": "+4",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "325",
+      "Total Deaths_text": "23",
+      "Total Recovered_text": "271"
+    },
+    {
+      "Active Cases_text": "62",
+      "Country_text": "Montenegro",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "323",
+      "Total Deaths_text": "8",
+      "Total Recovered_text": "253"
+    },
+    {
+      "Active Cases_text": "299",
+      "Country_text": "Equatorial Guinea",
+      "New Cases_text": "",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "315",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "52",
+      "Country_text": "Vietnam",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "271",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "219"
+    },
+    {
+      "Active Cases_text": "133",
+      "Country_text": "Rwanda",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "261",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "128"
+    },
+    {
+      "Active Cases_text": "237",
+      "Country_text": "Guinea-Bissau",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "257",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "19"
+    },
+    {
+      "Active Cases_text": "200",
+      "Country_text": "Congo",
+      "Last Update": "2020-05-04 14:59",
+      "New Cases_text": "+7",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "236",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "26"
+    },
+    {
+      "Active Cases_text": "227",
+      "Country_text": "Tajikistan",
+      "New Cases_text": "+102",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "230",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": ""
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "Faeroe Islands",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "187",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "185"
+    },
+    {
+      "Active Cases_text": "84",
+      "Country_text": "Martinique",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "181",
+      "Total Deaths_text": "14",
+      "Total Recovered_text": "83"
+    },
+    {
+      "Active Cases_text": "132",
+      "Country_text": "Sierra Leone",
+      "New Cases_text": "+12",
+      "New Deaths_text": "+1",
+      "Total Cases_text": "178",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "37"
+    },
+    {
+      "Active Cases_text": "136",
+      "Country_text": "Cabo Verde",
+      "New Cases_text": "+10",
+      "New Deaths_text": "",
+      "Total Cases_text": "175",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "37"
+    },
+    {
+      "Active Cases_text": "90",
+      "Country_text": "Liberia",
+      "Last Update": "2020-05-03 18:55",
+      "New Cases_text": "+8",
+      "New Deaths_text": "",
+      "Total Cases_text": "166",
+      "Total Deaths_text": "18",
+      "Total Recovered_text": "58"
+    },
+    {
+      "Active Cases_text": "106",
+      "Country_text": "Myanmar",
+      "New Cases_text": "+6",
+      "New Deaths_text": "",
+      "Total Cases_text": "161",
+      "Total Deaths_text": "6",
+      "Total Recovered_text": "49"
+    },
+    {
+      "Active Cases_text": "42",
+      "Country_text": "Guadeloupe",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "152",
+      "Total Deaths_text": "12",
+      "Total Recovered_text": "98"
+    },
+    {
+      "Active Cases_text": "50",
+      "Country_text": "Madagascar",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "149",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "99"
+    },
+    {
+      "Active Cases_text": "11",
+      "Country_text": "Gibraltar",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "144",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "133"
+    },
+    {
+      "Active Cases_text": "62",
+      "Country_text": "Ethiopia",
+      "New Cases_text": "+5",
+      "New Deaths_text": "",
+      "Total Cases_text": "140",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "75"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "Brunei",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "138",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "130"
+    },
+    {
+      "Active Cases_text": "56",
+      "Country_text": "Zambia",
+      "New Cases_text": "+13",
+      "New Deaths_text": "",
+      "Total Cases_text": "137",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "78"
+    },
+    {
+      "Active Cases_text": "32",
+      "Country_text": "French Guiana",
+      "New Cases_text": "+5",
+      "New Deaths_text": "",
+      "Total Cases_text": "133",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "100"
+    },
+    {
+      "Active Cases_text": "43",
+      "Country_text": "Togo",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "126",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "74"
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "Cambodia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "122",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "120"
+    },
+    {
+      "Active Cases_text": "68",
+      "Country_text": "Chad",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "117",
+      "Total Deaths_text": "10",
+      "Total Recovered_text": "39"
+    },
+    {
+      "Active Cases_text": "9",
+      "Country_text": "Trinidad and Tobago",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "116",
+      "Total Deaths_text": "8",
+      "Total Recovered_text": "99"
+    },
+    {
+      "Active Cases_text": "103",
+      "Country_text": "Eswatini",
+      "New Cases_text": "+4",
+      "New Deaths_text": "",
+      "Total Cases_text": "116",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "12"
+    },
+    {
+      "Active Cases_text": "54",
+      "Country_text": "Bermuda",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "115",
+      "Total Deaths_text": "7",
+      "Total Recovered_text": "54"
+    },
+    {
+      "Active Cases_text": "79",
+      "Country_text": "Haiti",
+      "New Cases_text": "+15",
+      "New Deaths_text": "+3",
+      "Total Cases_text": "100",
+      "Total Deaths_text": "11",
+      "Total Recovered_text": "10"
+    },
+    {
+      "Active Cases_text": "17",
+      "Country_text": "Aruba",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "100",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "81"
+    },
+    {
+      "Active Cases_text": "44",
+      "Country_text": "Benin",
+      "New Cases_text": "+6",
+      "New Deaths_text": "",
+      "Total Cases_text": "96",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "50"
+    },
+    {
+      "Active Cases_text": "13",
+      "Country_text": "Monaco",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "95",
+      "Total Deaths_text": "4",
+      "Total Recovered_text": "78"
+    },
+    {
+      "Active Cases_text": "34",
+      "Country_text": "Uganda",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "89",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "55"
+    },
+    {
+      "Active Cases_text": "75",
+      "Country_text": "CAR",
+      "New Cases_text": "+13",
+      "New Deaths_text": "",
+      "Total Cases_text": "85",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "10"
+    },
+    {
+      "Active Cases_text": "47",
+      "Country_text": "Bahamas",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "83",
+      "Total Deaths_text": "11",
+      "Total Recovered_text": "25"
+    },
+    {
+      "Active Cases_text": "51",
+      "Country_text": "Guyana",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "82",
+      "Total Deaths_text": "9",
+      "Total Recovered_text": "22"
+    },
+    {
+      "Active Cases_text": "31",
+      "Country_text": "Barbados",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "82",
+      "Total Deaths_text": "7",
+      "Total Recovered_text": "44"
+    },
+    {
+      "Active Cases_text": "26",
+      "Country_text": "Liechtenstein",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "82",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "55"
+    },
+    {
+      "Active Cases_text": "61",
+      "Country_text": "Mozambique",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "80",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "19"
+    },
+    {
+      "Active Cases_text": "19",
+      "Country_text": "Sint Maarten",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "76",
+      "Total Deaths_text": "13",
+      "Total Recovered_text": "44"
+    },
+    {
+      "Active Cases_text": "60",
+      "Country_text": "Cayman Islands",
+      "Last Update": "2020-04-30 03:41",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "75",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "14"
+    },
+    {
+      "Active Cases_text": "59",
+      "Country_text": "Nepal",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "75",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "16"
+    },
+    {
+      "Active Cases_text": "37",
+      "Country_text": "Libya",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "63",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "23"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "French Polynesia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "58",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "51"
+    },
+    {
+      "Active Cases_text": "46",
+      "Country_text": "South Sudan",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "46",
+      "Total Deaths_text": "",
+      "Total Recovered_text": ""
+    },
+    {
+      "Active Cases_text": "6",
+      "Country_text": "Macao",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "45",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "39"
+    },
+    {
+      "Active Cases_text": "14",
+      "Country_text": "Syria",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "44",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "27"
+    },
+    {
+      "Active Cases_text": "29",
+      "Country_text": "Malawi",
+      "Last Update": "2020-05-04 18:59",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "41",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "9"
+    },
+    {
+      "Active Cases_text": "28",
+      "Country_text": "Mongolia",
+      "Last Update": "2020-05-04 09:58",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "40",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "12"
+    },
+    {
+      "Active Cases_text": "13",
+      "Country_text": "Eritrea",
+      "Last Update": "2020-05-03 11:55",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "39",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "26"
+    },
+    {
+      "Active Cases_text": "6",
+      "Country_text": "Saint Martin",
+      "Last Update": "2020-05-02 10:51",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "38",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "29"
+    },
+    {
+      "Active Cases_text": "22",
+      "Country_text": "Angola",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "35",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "11"
+    },
+    {
+      "Active Cases_text": "25",
+      "Country_text": "Zimbabwe",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "34",
+      "Total Deaths_text": "4",
+      "Total Recovered_text": "5"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "Antigua and Barbuda",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "25",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "15"
+    },
+    {
+      "Active Cases_text": "4",
+      "Country_text": "Timor-Leste",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "24",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "20"
+    },
+    {
+      "Active Cases_text": "16",
+      "Country_text": "Sao Tome and Principe",
+      "New Cases_text": "+7",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "23",
+      "Total Deaths_text": "3",
+      "Total Recovered_text": "4"
+    },
+    {
+      "Active Cases_text": "14",
+      "Country_text": "Botswana",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "23",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "8"
+    },
+    {
+      "Active Cases_text": "8",
+      "Country_text": "Grenada",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "21",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "10",
+      "Country_text": "Laos",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "19",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "9"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Belize",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "18",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "4",
+      "Country_text": "Fiji",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "18",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "14"
+    },
+    {
+      "Active Cases_text": "1",
+      "Country_text": "New Caledonia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "18",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "17"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Saint Lucia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "18",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "15"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "Gambia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "17",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "9"
+    },
+    {
+      "Active Cases_text": "8",
+      "Country_text": "St. Vincent Grenadines",
+      "New Cases_text": "+1",
+      "New Deaths_text": "",
+      "Total Cases_text": "17",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "9"
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "Curaçao",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "16",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Dominica",
+      "Last Update": "2020-05-01 04:45",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "16",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "8",
+      "Country_text": "Namibia",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "16",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "8"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Nicaragua",
+      "New Cases_text": "+1",
+      "New Deaths_text": "+2",
+      "Total Cases_text": "15",
+      "Total Deaths_text": "5",
+      "Total Recovered_text": "7"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "Burundi",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "15",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "7"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "Saint Kitts and Nevis",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "15",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "8"
+    },
+    {
+      "Active Cases_text": "0",
+      "Country_text": "Falkland Islands",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "13",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "13"
+    },
+    {
+      "Active Cases_text": "9",
+      "Country_text": "Yemen",
+      "New Cases_text": "+2",
+      "New Deaths_text": "",
+      "Total Cases_text": "12",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": "1"
+    },
+    {
+      "Active Cases_text": "5",
+      "Country_text": "Turks and Caicos",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "12",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "6"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Montserrat",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "11",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "7"
+    },
+    {
+      "Active Cases_text": "0",
+      "Country_text": "Greenland",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "11",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "11"
+    },
+    {
+      "Active Cases_text": "9",
+      "Country_text": "Vatican City",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "11",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "2"
+    },
+    {
+      "Active Cases_text": "5",
+      "Country_text": "Seychelles",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "11",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "6"
+    },
+    {
+      "Active Cases_text": "0",
+      "Country_text": "Suriname",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "10",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "9"
+    },
+    {
+      "Active Cases_text": "7",
+      "Country_text": "MS Zaandam",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "9",
+      "Total Deaths_text": "2",
+      "Total Recovered_text": ""
+    },
+    {
+      "Active Cases_text": "1",
+      "Country_text": "Mauritania",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "8",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "6"
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "Papua New Guinea",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "8",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "6"
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "Bhutan",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "7",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "5"
+    },
+    {
+      "Active Cases_text": "2",
+      "Country_text": "British Virgin Islands",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "6",
+      "Total Deaths_text": "1",
+      "Total Recovered_text": "3"
+    },
+    {
+      "Active Cases_text": "6",
+      "Country_text": "Caribbean Netherlands",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "6",
+      "Total Deaths_text": "",
+      "Total Recovered_text": ""
+    },
+    {
+      "Active Cases_text": "0",
+      "Country_text": "St. Barth",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "6",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "6"
+    },
+    {
+      "Active Cases_text": "1",
+      "Country_text": "Western Sahara",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "6",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "5"
+    },
+    {
+      "Active Cases_text": "0",
+      "Country_text": "Anguilla",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "3",
+      "Total Deaths_text": "",
+      "Total Recovered_text": "3"
+    },
+    {
+      "Active Cases_text": "3",
+      "Country_text": "Comoros",
+      "Last Update": "2020-04-30 10:43",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "3",
+      "Total Deaths_text": "",
+      "Total Recovered_text": ""
+    },
+    {
+      "Active Cases_text": "1",
+      "Country_text": "Saint Pierre Miquelon",
+      "Last Update": "2020-04-30 14:43",
+      "New Cases_text": "",
+      "New Deaths_text": "",
+      "Total Cases_text": "1",
+      "Total Deaths_text": "",
+      "Total Recovered_text": ""
+    },
+    {
+      "Last Update": "2020-05-04 22:00"
+    }
+  ]
