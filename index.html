@@ -1,75 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Covid Tracker</title>
     <link rel="stylesheet" href="css/style.css" />
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <div class="row">
-          <div class="wordlwide">
-            <div class="container">
-              <h1>Worldwide Covid Statistics</h1>
-              <div class="world__status">
-                <div class="status__item">
-                  <h2>0</h2>
-                  <p class="confirmed">confirmed</p>
-                </div>
-                <div class="status__item">
-                  <h2>0</h2>
-                  <p class="deaths">deaths</p>
-                </div>
-                <div class="status__item">
-                  <h2>0</h2>
-                  <p class="recovered">recovered</p>
-                </div>
+      <div class="row">
+        <div class="wordlwide">
+          <div class="container">
+            <h1>Worldwide Covid Statistics</h1>
+            <div class="world__status">
+              <div class="status__item">
+                <h2>0</h2>
+                <p class="confirmed">confirmed</p>
               </div>
-              <div class="image">
-                <img src="img/left-image.png" alt="" />
+              <div class="status__item">
+                <h2>0</h2>
+                <p class="deaths">deaths</p>
               </div>
-            </div>
-          </div>
-          <div class="philippines">
-            <div class="container">
-              <h1>Philippines Covid Statistics</h1>
-              <div class="phil__status">
-                <div class="status__item">
-                  <h2 id>0</h2>
-                  <p class="confirmed">confirmed</p>
-                </div>
-                <div class="status__item">
-                  <h2>0</h2>
-                  <p class="deaths">deaths</p>
-                </div>
-                <div class="status__item">
-                  <h2>0</h2>
-                  <p class="recovered">recovered</p>
-                </div>
+              <div class="status__item">
+                <h2>0</h2>
+                <p class="recovered">recovered</p>
               </div>
             </div>
             <div class="image">
-              <img src="img/right-image.png" alt="" />
+              <img src="img/left-image.png" alt="" />
             </div>
           </div>
         </div>
-      </header>
-      <section class="search">
-        <div class="container">
-            <div class="search__wrapper">
-              <form id="covidSearch">
-                <h3>Search by country</h3>
-                <div class="search__container">
-                  <input type="text" id="search" placeholder="Search Country" />
-                  <button type="submit">Search</button>
-                </div>
-              </form>
+        <div class="philippines">
+          <div class="container">
+            <h1>Philippines Covid Statistics</h1>
+            <div class="phil__status">
+              <div class="status__item">
+                <h2 id>0</h2>
+                <p class="confirmed">confirmed</p>
+              </div>
+              <div class="status__item">
+                <h2>0</h2>
+                <p class="deaths">deaths</p>
+              </div>
+              <div class="status__item">
+                <h2>0</h2>
+                <p class="recovered">recovered</p>
+              </div>
             </div>
-            <div class="search__wrapper">
-                <div class="search__result">
-                  <div class="flag">
+          </div>
+          <div class="image">
+            <img src="img/right-image.png" alt="" />
+          </div>
+        </div>
+      </div>
+    </header>
+    <section class="search">
+      <div class="container">
+        <div class="search__wrapper">
+          <form id="covidSearch">
+            <h3>Search by country</h3>
+            <div class="search__container">
+              <input type="text" id="search" placeholder="Search Country" />
+              <button type="submit">Search</button>
+            </div>
+          </form>
+        </div>
+        <div class="search__wrapper">
+          <div class="search__result">
+            <!-- <div class="flag">
                     <img src="https://disease.sh/assets/img/flags/ph.png" alt="" />
                   </div>
                   <ul>
@@ -79,11 +79,11 @@
                         Recovered: 1,529,606 | Critical 46,945
                       </p>
                     </li>
-                  </ul>
-                </div>
-              </div>
+                  </ul> -->
+          </div>
         </div>
-      </section>     
-      <script type="module" src="js/app.js"></script>
-</body>
+      </div>
+    </section>
+    <script type="module" src="js/app.js"></script>
+  </body>
 </html>
