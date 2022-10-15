@@ -1,11 +1,11 @@
-@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Oswald", sans-serif;
+  font-family: 'Oswald', sans-serif;
   margin: 0;
 }
 
@@ -104,7 +104,7 @@ img {
 
 .search form {
   width: 100%;
-  max-width: 527px;
+  max-width: 593px;
 }
 
 .search__container {
@@ -137,11 +137,12 @@ img {
 .search__result {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
   padding-top: 30px;
 }
 
 .search__result img {
-  width: 100%;
+  width: 300px;
   display: block;
 }
 
